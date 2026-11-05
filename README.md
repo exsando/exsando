@@ -1,5 +1,8 @@
-## Hi there 👋
+# Alex Sando
+Experienced Chemical Engineer | Cloud Engineer Wannabe | Database Enthusiast | Nix Nerd
 
+## About me
+I am a Chemical Engineer who interested in Tech.
 <!--
 **exsando/exsando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,22 +17,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Alex Sando
-Software Developer | Fullstack  | Database Enthusiast | Nix Nerd
 
-## Programming Language
+
+## Programming Language 💻
 - C/C++
 - Go
 - Python
 - Typescript
 - Nix Functional DSL
+- Lua
 
-## Tools and Package
+## Tools
 - AWS Cloud
 - Vue
-- Kubernetes
+- Kubernetes (kind)
 - Terraform
 - Ansible
 - Postgresql
 - Sqlite
 - CockroachDB
+- Docker
+- Nix Flake
+
+## Area
+- Web development
+- Data Pipeline Creation
+- Backend Development
