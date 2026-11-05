@@ -15,3 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Alex Sando
+Software Developer | Fullstack  | Database Enthusiast | Nix Nerd
+
+## Programming Language
+- C/C++
+- Go
+- Python
+- Typescript
+- Nix Functional DSL
+
+## Tools and Package
+- AWS Cloud
+- Vue
+- Kubernetes
+- Terraform
+- Ansible
+- Postgresql
+- Sqlite
+- CockroachDB
